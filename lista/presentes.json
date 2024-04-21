@@ -1,0 +1,192 @@
+[
+    {
+        "nome": "Frigideira",
+        "link":"https://www.amazon.com.br/Frigideiras-Pe%C3%A7as-Alum%C3%ADnio-20198760-Tramontina/dp/B077SYYBVZ/ref=asc_df_B077SYYBVZ/?tag=googleshopp06-20&linkCode=df0&hvadid=379698488541&hvpos=&hvnetw=g&hvrand=9897924558879166821&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1031969&hvtargid=pla-816085932458&psc=1&mcid=16b3f14516163314b9c02d9bcb57d015",
+        "disponivel": true        
+    },
+    
+    {
+        "nome": "Potes hermeticos",
+        "link": "https://loja.electrolux.com.br/conjunto-de-potes-hermeticos-de-plastico-10-unidades-electrolux/p",
+        "disponivel": true
+    },
+
+    {
+        "nome": "Potes de plastico",
+        "link": "https://www.amazon.com.br/Conjunto-Potes-Pl%C3%A1stico-Prime-Quadrado-Ercaplast/dp/B084KL2VWL/ref=asc_df_B084KL2VWL/?tag=googleshopp00-20&linkCode=df0&hvadid=633378623456&hvpos=&hvnetw=g&hvrand=17510557001668554431&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031969&hvtargid=pla-1890217853465&psc=1&mcid=602b7c999e693a438f7f5dcc02d6db97",
+        "disponivel":true
+    },
+
+    {
+        "nome": "Potes de mantimentos",
+        "link": "https://www.amazon.com.br/Mantimentos-Quadrado-Acr%C3%ADlico-Litros-Tampa/dp/B0CB1ZZ1HW/ref=asc_df_B0CB1ZZ1HW/?tag=googleshopp00-20&linkCode=df0&hvadid=647429706147&hvpos=&hvnetw=g&hvrand=9774227405506527064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031969&hvtargid=pla-2204846144128&psc=1&mcid=8e6ba635803b33fcb4ef7031d7de8e29",
+        "disponivel": true
+    },
+    {
+        "nome": "Conjunto de pratos",
+        "link": "https://www.magazineluiza.com.br/jogo-jantar-pratos-copos-24-pecas-palha-de-trigo-livre-bpa-plastico-ecologico-santlen/p/ggbd5akjah/ud/pfsp/?partner_id=64068&utm_source=pdp&utm_medium=share",
+        "disponivel": true
+    },
+
+    {
+        "nome": "Jogo de talheres",
+        "link": "https://a.co/d/2yOQ0xh",
+        "disponivel": true
+    },
+
+    {
+        "nome": "Jogo de cama",
+        "link": "https://www.riachuelo.com.br/jogo-de-cama-queen-4-pecas-lara-estampado-azul-casa-riachuelo-15318630001_sku?utm_source=google&utm_medium=ads-mk&utm_campaign=sko_brd_mk_search_conv_na_gg_renove-casa&utm_content=br_all_na_pesquisa_generico_roas&utm_term=texto_texto_criativodinamico-search_TR26PR&gad_source=1&gclid=CjwKCAjw_e2wBhAEEiwAyFFFo50bXYb3TYaR44gdhfcR74NSt9MVzADfoAbg7Uk5wmMw0-tNz7FWQRoCXfoQAvD_BwE",
+        "disponivel": true
+    },
+
+
+    {
+        "nome": "Utensilhos de cozinha",
+        "link": "https://a.co/d/72iqS3O",
+        "disponivel": true
+    },
+
+    {
+        "nome": "Tapete",
+        "link": " https://a.co/d/a1wOEo6",
+        "disponivel": true
+    },
+
+    {"nome":"Tapete capacho",
+     "link": "https://produto.mercadolivre.com.br/MLB-1524431244-tapete-capacho-sejam-bem-viados-_JM#position=3&search_layout=stack&type=item&tracking_id=0126ff74-d02e-4751-a7a2-6efbb924a025", 
+     "disponivel": true  
+    },
+
+    {
+        "nome": "Tapete para banheiro",
+        "link": "http://api-shein.shein.com/h5/sharejump/appjump?link=VOtxESwWdlE&localcountry=BR&url_from=GM7502777872731967488"
+    },
+    
+    {
+        "nome":"Cortina",
+        "link":"https://www.riachuelo.com.br/cortina-blackout-new-basic-170x240-casa-riachuelo-14948893_sku_bege",
+        "disponivel": true
+    },
+
+    {
+        "nome": "Cortina modelo 2",
+        "link":"https://www.riachuelo.com.br/cortina-blackout-1-60x2-40m-bege-casa-riachuelo-15022811001_sku ",
+        "disponivel":true
+    },
+
+    {
+        "nome": "Jogo de toalhas de mesa",
+        "link": "http://api-shein.shein.com/h5/sharejump/appjump?link=VOJD8yRlc8A&localcountry=BR&url_from=GM7502129660549246976",
+        "disponivel": true
+    },
+
+    {
+        "nome":"Varal",
+        "link": "https://m.magazineluiza.com.br/varal-roupa-parede-sanfonado-aluminio-retratil-grande-dobravel-recolhivel-reforcado-apartamento-80cm-aluwest/p/gkgfbaa2e4/ud/vrap/?partner_id=64852&utm_source=pdp_mobile&utm_medium=share",
+        "disponivel": true
+    },
+
+    {
+        "nome": "Potes organizadores de cozinha",
+        "link": "https://a.co/d/3VgpE9M",
+        "disponivel": true
+    },
+
+    {
+        "nome":"Organizadores de cozinha",
+        "link": "https://a.co/d/dQCJnU9",
+        "disponivel": true
+    },
+
+    {
+        "nome": "Processador de alimentos",
+        "link": "https://a.co/d/8AHpiQq",
+        "disponivel": true
+    },
+
+    {
+        "nome": "Espelho",
+        "link":"https://produto.mercadolivre.com.br/MLB-3627818889-espelho-orgnico-70x50-lapidado-banheir-moderno-decorativo-_JM?matt_tool=58598667&matt_word=&matt_source=google&matt_campaign_id=14302215498&matt_ad_group_id=161363917910&matt_match_type=&matt_network=g&matt_device=c&matt_creative=686778909978&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5297049181&matt_product_id=MLB3627818889&matt_product_partition_id=1967063186812&matt_target_id=pla-1967063186812&cq_src=google_ads&cq_cmp=14302215498&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gclid=CjwKCAjw_e2wBhAEEiwAyFFFo8y5atg3-S3sNxugjjDxZ2Ev7t7I2bwVvIZTKm5ML7j2ZsCuEQIrgRoCvrcQAvD_BwE",
+        "disponivel": true
+    },
+
+    {
+        "nome": "Kit de ferramentas basicas",
+        "link": "https://www.amazon.com.br/Sparta-Maleta-ferramentas-kit-pe%C3%A7as/dp/B0BBJPCMQM/ref=asc_df_B0BBJPCMQM/?tag=googleshopp00-20&linkCode=df0&hvadid=379815101924&hvpos=&hvnetw=g&hvrand=1982772221064493619&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031969&hvtargid=pla-1775328432626&mcid=dd6d68b24fcf390c9ab33f0ea0fe343f&th=1",
+        "disponivel": true
+    },
+
+    {
+        "nome":"Kit mondial",
+        "link":"https://www.magazineluiza.com.br/kit-mondial-com-espremedor-sanduicheira-liquidificador-110v/p/hdk772j034/ep/elkp/",
+        "disponivel": true
+    },
+
+    {
+        "nome":"Jogo de toalhas",
+        "link":"https://www.amazon.com.br/Jogo-Toalhas-Banh%C3%A3o-Algod%C3%A3o-Branco/dp/B0C7BB7J1G/ref=sr_1_1_sspa?adgrpid=117911635862&dib=eyJ2IjoiMSJ9.JLBkFJBlWKSzm5p8BW5-hkud6pm50NlCis8S6ppxCBkSJy_34K0LlD9CXX69vrNYrTVBz6kUC5glzhD1QCfk8jGAZM8R2vfgUu4lGQYCX-zoXFu0E3nVQOmHADyzE3HbVWdgZr4TgFK-DcXpdEi9xybGp10DEqXf8JfvV7tCas8W5jpgqN_JKPXywBQ6xioAmGwqGgxDKmKvE40hO70NcFt6pOsoWUGr4-XFpq_djjTyaQj6rvzdqOYEQsiNWtQqYZDPGPhB2MqWkZYLNt9qZYBSZ6UI-0cy9XWhoExg4Sw.m9Vs3hwa3fzsHDBnvsdA1npmnP5lAq0bX00Nvyu7AYY&dib_tag=se&gclid=CjwKCAjw_e2wBhAEEiwAyFFFo8y5atg3-S3sNxugjjDxZ2Ev7t7I2bwVvIZTKm5ML7j2ZsCuEQIrgRoCvrcQAvD_BwE&hvadid=595972907033&hvdev=c&hvlocphy=1031969&hvnetw=g&hvqmt=e&hvrand=88797010837004230&hvtargid=kwd-301776702652&hydadcr=18436_13492555&keywords=conjunto%2Btoalhas&qid=1713121960&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+        "disponivel": true
+    },
+
+    {
+        "nome":"Ralador",
+        "link":"https://www.amazon.com.br/Ralador-Faces-Top-Pratic-Brinox/dp/B08PHZT2PC/ref=asc_df_B08PHZT2PC/?tag=googleshopp00-20&linkCode=df0&hvadid=379699132246&hvpos=&hvnetw=g&hvrand=4496344315125862001&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031969&hvtargid=pla-1394300798158&psc=1&mcid=2f5d2ea2cedc327bb7d4336e383e2801",
+        "disponivel": true
+    },
+
+    {
+        "nome": "Dispensador",
+        "link":"http://api-shein.shein.com/h5/sharejump/appjump?link=VOtxVXDEjs1&localcountry=BR&url_from=GM7502777469949603840"
+    },
+
+    {
+        "nome": "Assadeiras",
+        "link":"http://api-shein.shein.com/h5/sharejump/appjump?link=VOtxf3C3kJ4&localcountry=BR&url_from=GM7502778085694402560"
+    },
+
+    {
+        "nome": "Jarra de vidro",
+        "link": "http://api-shein.shein.com/h5/sharejump/appjump?link=VOtxnu9ZLRo&localcountry=BR&url_from=GM7502778165440704512"
+    },
+
+    {
+        "nome": "Jogo de cozinha",
+        "link":"http://api-shein.shein.com/h5/sharejump/appjump?link=VOttuvCIQHu&localcountry=BR&url_from=GM7502778441940963328"
+    },
+
+    {
+        "nome": "Forma de silicone",
+        "link":"http://api-shein.shein.com/h5/sharejump/appjump?link=VOttcuy65nS&localcountry=BR&url_from=GM7502778520522092544"
+    },
+    {
+        "nome": "Fruteira",
+        "link": "https://shopee.com.br/Fruteira-De-Ch%C3%A3o-Em-A%C3%A7o-Cozinha-Suporte-Bebedouro-Amadeirado-i.480333490.23291894181"
+    },
+
+    {
+        "nome": "Aspirador robô",
+        "link":"https://a.co/d/7STdPD1"
+    },
+    {
+        "nome":"Aspirador de pó",
+        "link": "https://a.co/d/6gJNcJn"
+    },
+    {
+        "nome": "Lixeira",
+        "link": "https://a.co/d/bkR0LH1"
+    },
+
+    {
+        "nome": "Caixas organizadoras",
+        "link": "https://a.co/d/hmdhT8q"
+    },
+    {
+        "nome": "Pegador para massa",
+        "link" : "https://a.co/d/hVEkuNl"
+    },
+    {
+        "nome": "Tábua para corte",
+        "link": "https://www.tramontina.com.br/tabua-tramontina-mixcolor-em-polipropileno-branco/25053180.html "
+    }
+]
