@@ -1,9 +1,5 @@
 const request = new XMLHttpRequest();
-request.open(
-   "GET",
-   "//pedroovi.github.io/ChaDePanela/lista/presentes.json",
-   true
-);
+request.open("GET", "//pedroovi.github.io/ChaDePanela/lista/presentes.json", true);
 let presentes = {};
 
 request.onload = function () {
