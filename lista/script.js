@@ -19,7 +19,7 @@ request.onload = function () {
 request.send();
 
 function redirecionarWpp(presente) {
-   let telefone = "";
+   let telefone = "31998381385"  
    let mssg = `Olá, gostaria de escolher a(o) ${presente.nome}, como presente para sua casa nova ${presente.link}`;
    let mssgCodificada = encodeURIComponent(mssg);
    let url = `https://api.whatsapp.com/send?phone=${telefone}&text=${mssgCodificada}`;
