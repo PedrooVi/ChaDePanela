@@ -6,10 +6,7 @@ request.onload = function () {
    if (request.status >= 200 && request.status < 400) {
       let data = JSON.parse(request.responseText);
       data.forEach(function (presente) {
-         presentes[presente.nome] = presente;
-         if (!presente.hasOwnProperty("disponivel")) {
-            presente.disponivel = true;
-         }
+         presentes[presente.nome] = presente.link;
       });
    } else {
       console.log("Erro ao carregar dados do JSON");
